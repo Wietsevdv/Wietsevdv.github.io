@@ -1,0 +1,17 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+
+p {
+    font-size: large;
+    color: red;
+}
+
+img {
+    height: 300px;
+}
+
+h1, p, img, h4 {
+    background-color: darkslategray;
+}
